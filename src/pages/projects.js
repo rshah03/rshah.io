@@ -1,11 +1,11 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import { Grid, Card } from 'semantic-ui-react'
+import { Grid, Card, Icon } from 'semantic-ui-react'
 import '../layouts/projects.scss'
 
 const SecondPage = () =>
   <div>
-    <h1>P R O J E C T S</h1> <hr />
+    <h1><Link to="/"><Icon name="chevron left"/></Link>P R O J E C T S</h1> <hr />
     <Grid className="projectGrid" centered doubling divided stackable columns={3}>
       <Grid.Row>
         <Grid.Column>
