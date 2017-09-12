@@ -14,13 +14,15 @@
 .profileImage {
   display: block;
   margin: 0 auto;
-  width: 35%;
-  height: 35%;
   border: 5px solid #455785;
   border-radius: 100% 100% 100% 100%;
 }
 
 .headerLine {
   display: inline-block !important;
+}
+
+.aboutMe {
+  font-family: 'Raleway', sans-serif;
 }
 

@@ -4,7 +4,7 @@ import { Grid, Card, Icon } from 'semantic-ui-react'
 import '../layouts/projects.scss'
 
 const SecondPage = () =>
-  <div>
+  <div className="animated fadeInLeft">
     <h1><Link to="/"><Icon name="chevron left"/></Link>P R O J E C T S</h1> <hr />
     <Grid className="projectGrid" centered doubling divided stackable columns={3}>
       <Grid.Row>

@@ -36,7 +36,9 @@ const TemplateWrapper = ({ children }) =>
         { name: 'keywords', content: 'sample, something' },
       ]}
       link={[
-        {rel: 'stylesheet', href: '//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css'}
+        {rel: 'stylesheet', href: '//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css'},
+        {rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'},
+        {rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Raleway'}        
       ]}
     />
     <Header />
