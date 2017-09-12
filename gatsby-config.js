@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/Ronak.io`,
   siteMetadata: {
-    title: `Gatsby Default Starter`,
+    title: `Ronak Shah`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
