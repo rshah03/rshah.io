@@ -11,7 +11,7 @@ const Header = () =>
     <Grid>
         <Grid.Row>
           <Grid.Column>
-            <Menu pointing borderless className="navBar">
+            <Menu fluid pointing borderless className="navBar">
               <Menu.Menu>
                 <Menu.Item className="menuItem nameTitle">
                   <h3 className="developerTag"><Icon name="chevron left"/>Ronak Shah<Icon name="chevron right"/></h3>
