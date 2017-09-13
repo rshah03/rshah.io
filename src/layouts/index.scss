@@ -22,25 +22,26 @@
   display: inline-block !important;
 }
 
-
 .imageSection {
   margin-top: 0.2em !important;
 }
 
-.aboutMe {
+.image {
+  max-width: 100%;
+}
 
-  text-align: justify !important;
-  // text-justify: auto !important;
-  vertical-align: middle !important;
+.myName {
+  text-align: center;
   font-family: 'Raleway', sans-serif;
   font-size: 16pt !important;
+  margin-bottom: 0.4em;
+}
 
-  .myName {
-    text-align: center;
-    vertical-align: middle !important;
-    font-family: 'Raleway', sans-serif;
-    font-size: 16pt !important;
-    margin-bottom: 0.4em;
-  }
+.aboutMe {
+
+  // text-align: justify !important;
+  // text-justify: auto !important;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16pt !important;
 }
 
