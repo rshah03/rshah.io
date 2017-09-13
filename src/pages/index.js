@@ -11,7 +11,7 @@ const IndexPage = () =>
     <Grid className="imageSection" centered doubling stackable container columns={2}>
       {/* <Grid.Row className="imageSection"> */}
         <Grid.Column>
-          <Image className="image" circular className="profileImage" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAoLAAAAJDlkYzRmYjVjLTJhNDgtNDEyMy04YzZlLTU0ZmZmZTQ4ODkxNg.jpg" />
+          <Image className="image" className="profileImage" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAoLAAAAJDlkYzRmYjVjLTJhNDgtNDEyMy04YzZlLTU0ZmZmZTQ4ODkxNg.jpg" />
         </Grid.Column>
         <Grid.Column>
           <p className="myName">Hi, I'm Ronak!</p>
