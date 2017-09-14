@@ -32,8 +32,8 @@ const TemplateWrapper = ({ children }) =>
     <Helmet
       title="Ronak Shah"
       meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
+        { name: 'description', content: 'A personal site by Ronak' },
+        { name: 'keywords', content: 'Ronak, Shah, personal, website, portfolio, projects, programming' },
       ]}
       link={[
         {rel: 'stylesheet', href: '//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css'},
