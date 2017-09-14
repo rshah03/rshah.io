@@ -2,6 +2,7 @@ module.exports = {
   pathPrefix: `/Ronak.io`,
   siteMetadata: {
     title: `Ronak Shah`,
+    description: 'A personal website by Ronak Shah'
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
