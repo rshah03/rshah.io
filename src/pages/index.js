@@ -17,7 +17,7 @@ const IndexPage = () =>
         <Grid.Column>
           <p className="myName">Hi, I'm Ronak!</p>
           <p className="aboutMe">I am a senior at the University of Houston, pursuing a degree in Computer Science, with a specification in Software Design and Development. </p>
-          <p className="aboutMe">To me, technology evokes a sense of innate curiosity; an intrigue. My passion for programming and general interest in Computer Science is a by-product of that curiosity. I havae been enamored with the technological world and all that it has to offer from a very young age. It amazes me with its limitless potential. It only took one introduction to programming course for me to know that it was what I wanted to do, thus establishing my passion. I strive to be on the cutting-edge of technology and constantly foray into the unknown. </p>
+          <p className="aboutMe">To me, technology evokes a sense of innate curiosity; an intrigue. My passion for programming and general interest in Computer Science is a by-product of that curiosity. I have been enamored with the technological world and all that it has to offer from a very young age. It amazes me with its limitless potential. It only took one introduction to programming course for me to know that it was what I wanted to do, thus establishing my passion. I strive to be on the cutting-edge of technology and constantly foray into the unknown. </p>
         </Grid.Column>
       {/* </Grid.Row> */}
     </Grid>
