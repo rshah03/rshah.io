@@ -1,7 +1,9 @@
 ---
-path: "/firstBlog"
-title: "First Blog Post"
+path: "/iWantToCode"
+title: "I Want to Code. Where Should I Start?"
 ---
 
-## Hello!
-This is my first blog post! Exciting, isn't it?
+
+## Why? 
+
+## Section 2
