@@ -10,7 +10,7 @@ const IndexPage = () =>
     <Grid className="imageSection" centered doubling stackable container columns={2}>
         <Grid.Column textAlign="center">
           <Image className="image" className="profileImage" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAoLAAAAJDlkYzRmYjVjLTJhNDgtNDEyMy04YzZlLTU0ZmZmZTQ4ODkxNg.jpg" />
-          <Button className="resumeButton" basic color='blue'><a href="https://drive.google.com/file/d/0B90tJM4IBtgNcmpTcmZ6ZmxMWUE/view?usp=sharing" target="_blank">R É S U M É</a></Button>
+          <Button className="resumeButton" basic color='blue'><a href="https://drive.google.com/file/d/0B90tJM4IBtgNdGNBYU5CQzBtbDA/view?usp=sharing" target="_blank">R É S U M É</a></Button>
         </Grid.Column>
         <Grid.Column>
           <p className="myName">Hi, I'm Ronak!</p>
