@@ -9,11 +9,12 @@ class BlogPage extends Component {
         <h1><Link to="/projects"><Icon name="chevron left"/></Link>B L O G</h1>
         <hr />
 
-        {console.log(this.props.data)}
+        {/* This should be wrapped in a grid. new rows should be created per blog posts */}
         {this.props.data.allMarkdownRemark.edges.map(post => (
           <Button
             key={post.node.id}
-            href={post.node.frontmatter.path}>
+            href={post.node.frontmatter.path}
+            target="_blank">
             {post.node.frontmatter.title}
           </Button>
         ))}
