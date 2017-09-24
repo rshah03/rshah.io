@@ -5,7 +5,12 @@ import { Icon, Grid, Image, Button } from 'semantic-ui-react'
 
 const IndexPage = () =>
   <div className="animated fadeInLeft">
-    <span><h1>A B O U T<Link to="/projects"><Icon name="chevron right"/></Link></h1></span>
+    <Grid centered columns={1}>
+      <Grid.Column>
+        <span><h1>A B O U T<Link to="/projects"><Icon name="chevron right"/></Link></h1></span>
+      </Grid.Column>
+    </Grid>
+
     <hr />
     <Grid className="imageSection" centered doubling stackable container columns={2}>
         <Grid.Column textAlign="center">
