@@ -13,8 +13,17 @@ So before you start hammering out code, ask yourself. *Why* do I want to code?
 
 *Remember, this should be something you WANT to do, not something you have to do*
 
-## Where Should I start?
-There are dozens of online tutorial services that can help you start coding, so finding one in general isn't the the difficult part. The hard part is finding the *right* one. Depending on your learning style, try finding resources that work for *YOU*. Many people tend to fixate themselves on just one method, thereby doing themselves a disservice. Learning something like programming cannot be done in such a linear fashion. To get the most out of the learning experience, you will need to mix and match different learning methods. This serves several purposes:
+## Where and How Should I start?
+There are dozens of online tutorial services that can help you start coding, so finding one in general isn't the the difficult part. The tricky part is finding the *right* one. Find and use resources that cater to *YOUR* learning style. Limiting yourself to a single soruce will likely prove to be a disservice. Learning something like programming cannot be done in such a linear fashion. To get the most out of the learning experience, try to mix and match different learning methods. 
+
+Varying learning sources serves several purposes:
 - You will be able to pick up on key concepts faster by seeing them implemented in different scenarios
 - It will help improve your understanding of the concept if you are able to see it through multiple perspectives
 - You will find that you aren't bored as quickly
+
+That being said, it's okay and normal to primailry stick to one source, follow it, and then move on. If you feel as though a given concept is not explained to your satisfaction, that is when you should look to another source for clarifcation, but be sure to come back. 
+
+One of the most important things to keep in mind when starting out is ***concept over syntax.*** 
+
+## Which Programming Language Should I pick?
+A myriad of programming languages are available. 
