@@ -26,4 +26,4 @@ That being said, it's okay and normal to primailry stick to one source, follow i
 One of the most important things to keep in mind when starting out is ***concept over syntax.*** 
 
 ## Which Programming Language Should I pick?
-A myriad of programming languages are available. 
+If this is your first foray into programming, I strongly recommend using Python. It's a langauge that is relatively easy to pick up; lax in terms of syntax, allowing you to devote more of your attention to learning the concepts. 

@@ -1,4 +1,6 @@
-
+$break-small: 320px;
+$break-medium: 375px;
+$break-large: 414px;
 
 .backButton{
   margin-top: 0.2em !important;
@@ -8,6 +10,17 @@
 .postArea {
   margin: 0 auto;
   width: 60%;
+  @media screen and (max-width: $break-small) {
+    width: 80%;
+  }
+
+  @media screen and (max-width: $break-medium) {
+    width: 70%;
+  }
+
+  @media screen and (max-width: $break-large) {
+    width: 65%;
+  }
 }
 
 .bodyText {
