@@ -18,14 +18,14 @@ There are dozens of online tutorial services that can help you start coding, so 
 Varying learning sources serves several purposes:
 - You will be able to pick up on key concepts faster by seeing them implemented in different scenarios
 - It will help improve your understanding of the concept if you are able to see it through multiple perspectives
-- You will find that you aren't bored as quickly
+- The task of learning becomes a lot less monotonous; it feels refreshing
 
 That being said, it's okay and normal to primailry stick to one source, follow it, and then move on. If you feel as though a given concept is not explained to your satisfaction, that is when you should look to another source for clarifcation, but be sure to come back. 
 
 
 
 ### The Mantra: Concept over Syntax
-Focus on the underlying concepts! The syntax is just formality. You'll find that it's a lot easier to learn a programming language if you can relate the concepts. The syntax will come to your naturally after a while.
+Focus on the underlying concepts! The syntax is just formality. You'll find that it's a lot easier to learn a programming language if you can relate the concepts to the code instead of the other way around. The syntax will come to your naturally after a while.
 
 ## Picking the Programming Language
 If this is your first foray into programming, I strongly recommend using Python. It's a langauge that is relatively easy to pick up; lax in terms of syntax, allowing you to devote more of your attention to learning the concepts. The [2017 TIOBE Index](https://www.tiobe.com/tiobe-index/), a rating that indicates the popularity of programming languages, ranks Python at #5, trailing behind Java, C, C++, and C#. 
