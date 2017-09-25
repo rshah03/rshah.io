@@ -34,12 +34,12 @@ Java is currently #1, so why not start with Java? Most educational cirriculums a
 
 Now, my intention is not to force you to learn and use Python, but it's an ideal choice. If you're game for a challenge, feel free to dabble in any language of your choice, including Java or C++. In fact, I actually started with Java and C++ myself, but I was not aware of Python at the time. 
 
-Are there other languages out there that are easier? Probably. But starting with Python can help knock out two birds with one stone. Python is an extremely popular language in the industry. Having it in your toolbelt is extremely useful.
+Are there other languages out there that are easier? Probably. But most of those are too simple to be useful. Starting with Python can help knock out two birds with one stone. Python is an extremely popular language in the industry. Having it in your toolbelt is quite useful.
 
 With that being said, remember: the programming language you choose is nothing but a tool.
 
 ## Coding Environment
-Since I mentioned Python in the previous section, let's focus on it. You can use an IDE (**I**ntegrated **D**evelopment **E**nvironment) or a text editor. Some programming languages are more suited for IDEs (i.e. Java), whereas others are more suited for text editors (i.e. Python). Generally, you'll want to use a text editor unless you're working on a significantly large project that uses APIs, large scale unit testing, etc.
+Since I mentioned Python in the previous section, let's focus on it. You can use an IDE (**I**ntegrated **D**evelopment **E**nvironment) or a text editor. Some programming languages are more suited for IDEs (i.e. Java), whereas others are more suited for text editors (i.e. Python). Text editors tend to work best with scripting languages like Python. Generally, you'll want to stick to using a text editor unless you're working on a significantly large project that uses APIs, large scale unit testing, etc., and that applies to almost all languages.
 
 That's not to say that you can't use the other, if it's available. Objectively speaking, a text editor is the way to go for Python. They're lightweight, easy to manage, and highly customizable.
 
