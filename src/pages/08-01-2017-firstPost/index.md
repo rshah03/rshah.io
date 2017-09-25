@@ -1,6 +1,6 @@
 ---
-path: "/i-want-to-code"
-title: "'How do I Code?'"
+path: "/blog/learning-to-code"
+title: "Learning to Code"
 ---
 
 ## Why do You Want to Code?
@@ -22,7 +22,12 @@ Varying learning sources serves several purposes:
 
 That being said, it's okay and normal to primailry stick to one source, follow it, and then move on. If you feel as though a given concept is not explained to your satisfaction, that is when you should look to another source for clarifcation, but be sure to come back. 
 
-
+#### Resources
+Here's a list of some of my favorite resources. Keep in mind that these are based on my opinions. Use this list as a starting point. Don't restrict yourself to it; go and explore.
+- [The New Boston](https://thenewboston.com/)
+- [Egghead.io](https://egghead.io/)
+- [TutorialsPoint](https://www.tutorialspoint.com/)
+- [Hackerrank](https://www.hackerrank.com/)
 
 ### The Mantra: Concept over Syntax
 Focus on the underlying concepts! The syntax is just formality. You'll find that it's a lot easier to learn a programming language if you can relate the concepts to the code instead of the other way around. The syntax will come to your naturally after a while.
@@ -36,7 +41,7 @@ Now, my intention is not to force you to learn and use Python, but it's an ideal
 
 Are there other languages out there that are easier? Probably. But most of those are too simple to be useful. Starting with Python can help knock out two birds with one stone. Python is an extremely popular language in the industry. Having it in your toolbelt is quite useful.
 
-With that being said, remember: the programming language you choose is nothing but a tool.
+With that being said, remember: the programming language you choose is nothing but a tool. 
 
 ## Coding Environment
 Since I mentioned Python in the previous section, let's focus on it. You can use an IDE (**I**ntegrated **D**evelopment **E**nvironment) or a text editor. Some programming languages are more suited for IDEs (i.e. Java), whereas others are more suited for text editors (i.e. Python). Text editors tend to work best with scripting languages like Python. Generally, you'll want to stick to using a text editor unless you're working on a significantly large project that uses APIs, large scale unit testing, etc., and that applies to almost all languages.
