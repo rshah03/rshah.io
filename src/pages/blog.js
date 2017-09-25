@@ -6,7 +6,7 @@ import '../layouts/blog.scss'
 class BlogPage extends Component {
   render() {
     return (
-      <div>
+      <div className="animated fadeInRight">
         <h1><Link to="/projects"><Icon name="chevron left"/></Link>B L O G</h1>
         <hr />
         <div className="blogBackground">

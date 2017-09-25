@@ -6,7 +6,7 @@ import './post.scss';
 export default function Template({data}) {
   const {markdownRemark: post} = data;
   return (
-    <div className="postPage">
+    <div className="postPage animated fadeIn">
       <Button
         color="blue"
         className="backButton"
@@ -15,7 +15,7 @@ export default function Template({data}) {
       />
 
         
-      <div className="postArea">
+      <div className="postArea animated slideInUp">
         <h1>
           {post.frontmatter.title}
         </h1>
