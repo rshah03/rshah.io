@@ -1,6 +1,6 @@
 # Personal website
  - Deployed using Netlify
- - https://ronak.netlify.com/
+ - https://rshah.io/
 
 # gatsby-starter-default
 This website was created using The default Gatsby starter boilerplate.
