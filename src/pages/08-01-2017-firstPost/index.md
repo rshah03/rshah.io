@@ -1,6 +1,6 @@
 ---
-path: "/i-want-to-code"
-title: "'How do I Code?'"
+path: "/blog/learning-to-code"
+title: "Learning to Code"
 ---
 
 ## Why do You Want to Code?
