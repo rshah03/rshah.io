@@ -1,8 +1,7 @@
 ---
 path: "/i-want-to-code"
-title: "How do I Code?"
+title: "'How do I Code?'"
 ---
-
 
 ## Why?
 I've had a lot of people come up to me tell me that they want to learn how to code. The one thing most, if not all, of them share in common is that they seldom know where and/or how to start. Learning to code goes well beyond simply learning how to write it. There needs to be a purpose; a reason for which you want to learn the skill(s).
@@ -23,7 +22,29 @@ Varying learning sources serves several purposes:
 
 That being said, it's okay and normal to primailry stick to one source, follow it, and then move on. If you feel as though a given concept is not explained to your satisfaction, that is when you should look to another source for clarifcation, but be sure to come back. 
 
-One of the most important things to keep in mind when starting out is ***concept over syntax.*** 
+
+
+### The Mantra: Concept over Syntax
+Focus on the underlying concepts! The syntax is just formality. You'll find that it's a lot easier to learn a programming language if you can relate the concepts. THe syntax will come to your naturally after a while.
 
 ## Which Programming Language Should I pick?
-If this is your first foray into programming, I strongly recommend using Python. It's a langauge that is relatively easy to pick up; lax in terms of syntax, allowing you to devote more of your attention to learning the concepts. 
+If this is your first foray into programming, I strongly recommend using Python. It's a langauge that is relatively easy to pick up; lax in terms of syntax, allowing you to devote more of your attention to learning the concepts. The [2017 TIOBE Index](https://www.tiobe.com/tiobe-index/), a rating that indicates the popularity of programming languages, ranks Python at #5, trailing behind Java, C, C++, and C#. 
+
+Java is currently #1, so why not start with Java? Most educational cirriculums actually do start with Java and/or C++. These two languages, especially C++, have fairly steep learning curves for novices. Java's strictly-typed, verbose nature, and C++'s impeccable memory management capabilties make them extremely powerful languages in the industry. However, for beginners, these can also serve as bottlenecks. 
+
+Now, my intention is not to force you to learn and use Python, but it's an ideal choice. If you're game for a challenge, feel free to dabble in any language of your choice, including Java or C++. In fact, I actually started with Java and C++ myself, but I was not aware of Python at the time. 
+
+Are there other languages out there that are easier? Probably. But starting with Python can help knock out two birds with one stone. Python is an extremely popular language in the industry. Having it in your toolbelt is extremely useful.
+
+## Coding Environment
+Since I mentioned Python in the previous section, let's focus on it. You can use an IDE (**I**ntegrated **D**evelopment **E**nvironment) or a text editor. Some programming languages are more suited for IDEs (i.e. Java), whereas others are more suited for text editors (i.e. Python). Generally, you'll want to use a text editor unless you're working on a significantly large project that uses APIs, large scale unit testing, etc.
+
+That's not to say that you can't use the other, if it's available. Objectively speaking, a text editor is the way to go for Python. They're lightweight, easy to manage, and highly customizable.
+
+Here are the some of most significant text editors ranked from most favorite to least favorite *in my opinion*:
+1. [Visual Studio Code](https://code.visualstudio.com/)
+2. [Vim](https://vim.sourceforge.io/)*
+3. [Sublime Text 3](https://www.sublimetext.com/3)
+4. [Atom](https://atom.io/)
+
+**Not recommended for beginners! Extremely steep learning curve.*

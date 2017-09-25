@@ -13,7 +13,8 @@ export default function Template({data}) {
         icon="left chevron"
         href="/blog"
       />
-    
+
+        
       <div className="postArea">
         <h1>
           {post.frontmatter.title}
