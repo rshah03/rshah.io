@@ -7,7 +7,7 @@ class BlogPage extends Component {
   render() {
     return (
       <div className="animated fadeInRight">
-        <h1><Link to="/projects"><Icon name="chevron left"/></Link>B L O G</h1>
+        <h1>B L O G</h1>
         <hr />
         <div className="blogBackground">
           <div className="blogList">
