@@ -33,7 +33,9 @@ Here's a list of some of my favorite resources. Keep in mind that these are base
 Focus on the underlying concepts! The syntax is just formality. You'll find that it's a lot easier to learn a programming language if you can relate the concepts to the code instead of the other way around. The syntax will come to your naturally after a while.
 
 ## Picking the Programming Language
-If this is your first foray into programming, I strongly recommend using Python. It's a langauge that is relatively easy to pick up; lax in terms of syntax, allowing you to devote more of your attention to learning the concepts. The [2017 TIOBE Index](https://www.tiobe.com/tiobe-index/), a rating that indicates the popularity of programming languages, ranks Python at #5, trailing behind Java, C, C++, and C#. 
+If this is your first foray into programming, I strongly recommend using Python. It's a langauge that is relatively easy to pick up; lax in terms of syntax, allowing you to devote more of your attention to learning the concepts. The 2017 TIOBE Index, a rating that indicates the popularity of programming languages, ranks Python at #5, trailing behind Java, C, C++, and C#. 
+
+![alt text]('../../Assets/TIOBE Ratings.png' "TIOBE Index")
 
 Java is currently #1, so why not start with Java? Most educational cirriculums actually do start with Java and/or C++. These two languages, especially C++, have fairly steep learning curves for novices. Java's strictly-typed, verbose nature, and C++'s impeccable memory management capabilties make them extremely powerful languages in the industry. However, for beginners, these can also serve as bottlenecks. 
 
