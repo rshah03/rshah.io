@@ -14,8 +14,11 @@ const IndexPage = () =>
     <hr />
     <Grid className="imageSection" centered doubling stackable container columns={2}>
         <Grid.Column textAlign="center">
+          <Button className="resumeButton" basic color="blue"><Link to="/blog/">B L O G</Link></Button>
           <Image className="image" className="profileImage" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAoLAAAAJDlkYzRmYjVjLTJhNDgtNDEyMy04YzZlLTU0ZmZmZTQ4ODkxNg.jpg" />
           <Button className="resumeButton" basic color='blue'><a href="https://drive.google.com/file/d/0B90tJM4IBtgNdGNBYU5CQzBtbDA/view?usp=sharing" target="_blank">R É S U M É</a></Button>
+          <br />
+          
         </Grid.Column>
         <Grid.Column>
           <p className="myName">Hi, I'm Ronak!</p>
