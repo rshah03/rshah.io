@@ -14,7 +14,7 @@ const Header = () =>
             <Menu fluid pointing borderless className="navBar">
               <Menu.Menu>
                 <Menu.Item className="menuItem nameTitle">
-                  <h3 className="developerTag"><Icon name="terminal"/>Ronak Shah</h3>
+                  <h3 className="developerTag"><Icon name="terminal"/><Link to="/">Ronak Shah</Link></h3>
                 </Menu.Item>
               </Menu.Menu>
               <Menu.Menu position="right">
