@@ -10,6 +10,7 @@
     "gatsby-plugin-sass": "^1.0.4",
     "gatsby-source-filesystem": "^1.4.6",
     "gatsby-transformer-remark": "^1.7.5",
+    "react-bootstrap": "^0.31.3",
     "semantic-ui-react": "^0.73.0"
   },
   "keywords": [

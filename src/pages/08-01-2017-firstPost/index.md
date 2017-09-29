@@ -6,19 +6,19 @@ title: "Learning to Code"
 ## Why do You Want to Code?
 I've had a lot of people come up to me tell me that they want to learn how to code. The one thing most, if not all, of them share in common is that they seldom know where and/or how to start. Learning to code goes well beyond simply learning how to write it. There needs to be a purpose; a reason for which you want to learn the skill(s).
 
-Now, the reason(s) needn't be a complex conclusion drawn from philosophical origins. But it should come from a natural interest, rather than to satisfy a superficial purpose (i.e. simply wanting to add it to your resume). Having a sincere passion to learn something makes the process significantly easier and more efficient.
+The reason(s) should come from a natural interest, rather than to satisfy a superficial purpose (i.e. wanting to add it to your resume). Having a sincere passion to learn something makes the process significantly easier and more efficient.
 
 So before you start hammering out code, ask yourself. *Why* do I want to code?
 
 *Remember, this should be something you WANT to do, not something you have to do*
 
 ## Where and How Should You Start?
-There are dozens of online tutorial services that can help you start coding, so finding one in general isn't the the difficult part. The tricky part is finding the *right* one. Find and use resources that cater to *YOUR* learning style. Limiting yourself to a single soruce will likely prove to be a disservice. Learning something like programming cannot be done in such a linear fashion. To get the most out of the learning experience, try to mix and match different learning methods. 
+There are dozens of online tutorial services that can help you start coding, so finding one in general isn't the the difficult part. The tricky part is finding the *right* one. Find and use resources that cater to *YOUR* learning style. You're doing yourself a huge disservice if you only use one source. Learning programming cannot be done in a linear fashion. To get the most out of the learning experience, try to mix and match different learning methods. 
 
 Varying learning sources serves several purposes:
-- You will be able to pick up on key concepts faster by seeing them implemented in different scenarios
-- It will help improve your understanding of the concept if you are able to see it through multiple perspectives
-- The task of learning becomes a lot less monotonous; it feels refreshing
+- You'll be able to pick up on key concepts faster, and more effectively
+- It'll help improve your understanding of a concept by seeing it through multiple perspectives
+- Learning becomes a lot less monotonous; the change in environment feels refreshing
 
 That being said, it's okay and normal to primailry stick to one source, follow it, and then move on. If you feel as though a given concept is not explained to your satisfaction, that is when you should look to another source for clarifcation, but be sure to come back. 
 
@@ -37,7 +37,7 @@ If this is your first foray into programming, I strongly recommend using Python.
 
 Java is currently #1, so why not start with Java? Most educational cirriculums actually do start with Java and/or C++. These two languages, especially C++, have fairly steep learning curves for novices. Java's strictly-typed, verbose nature, and C++'s impeccable memory management capabilties make them extremely powerful languages in the industry. However, for beginners, these can also serve as bottlenecks. 
 
-Now, my intention is not to force you to learn and use Python, but it's an ideal choice. If you're game for a challenge, feel free to dabble in any language of your choice, including Java or C++. In fact, I actually started with Java and C++ myself, but I was not aware of Python at the time. 
+Now, my intention is not to force you to learn and use Python, but it's an ideal choice. If you're game for a challenge, feel free to dabble in any language of your choice, including Java or C++. In fact, I actually started with Java and C++ myself, but I would've opted to start with Python if I had been exposed to it initially.
 
 Are there other languages out there that are easier? Probably. But most of those are too simple to be useful. Starting with Python can help knock out two birds with one stone. Python is an extremely popular language in the industry. Having it in your toolbelt is quite useful.
 
