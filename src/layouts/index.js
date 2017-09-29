@@ -32,7 +32,7 @@ const TemplateWrapper = ({ children }) =>
     <Helmet
       title="Ronak Shah"
       meta={[
-        { name: 'description', content: 'A personal site by Ronak' },
+        { name: 'description', content: 'A portfolio and blog by Ronak Shah' },
         { name: 'keywords', content: 'Ronak, Shah, personal, website, portfolio, projects, programming' },
       ]}
       link={[
