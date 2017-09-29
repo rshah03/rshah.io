@@ -55,3 +55,11 @@ Here are the some of most significant text editors ranked from most favorite to 
 4. [Atom](https://atom.io/)
 
 **Not recommended for beginners! Extremely steep learning curve.*
+
+## What's next?
+
+Branch out, and explore! Programming is a very vast topic with a limitless potential. 
+
+Thanks for taking the time to read my first post, I hope it was helpful. I'll be uploading more in the coming future as my schedule permits, so come by again!
+
+# Good luck!
