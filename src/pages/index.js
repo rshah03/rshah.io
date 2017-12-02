@@ -17,9 +17,8 @@ const IndexPage = () =>
           <Image className="image" className="profileImage" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAoLAAAAJDlkYzRmYjVjLTJhNDgtNDEyMy04YzZlLTU0ZmZmZTQ4ODkxNg.jpg" />
           <Button className="resumeButton" basic color='green' href="https://drive.google.com/open?id=19t2mzanhr5ghMC5SiPOWk2kLLUnVHjWW" target="_blank">R E S U M É</Button> 
           <br />
-          <Button className="resumeButton" basic color="blue"><Link to="/blog">B L O G</Link></Button>
-          <br />
-          
+          <Link to="/blog"><Button className="resumeButton" basic color="blue">B L O G</Button></Link>
+          <br /> 
         </Grid.Column>
         <Grid.Column>
           <p className="myName">Hi, I'm Ronak!</p>
