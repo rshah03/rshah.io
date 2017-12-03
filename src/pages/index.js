@@ -18,8 +18,7 @@ const IndexPage = () =>
           <Button className="resumeButton" basic color='green' href="https://drive.google.com/file/d/0B90tJM4IBtgNdGNBYU5CQzBtbDA/view?usp=sharing" target="_blank">R É S U M É</Button> 
           <br />
           <Button className="resumeButton" basic color="blue" href="/blog">B L O G</Button>
-          <br />
-          
+          <br />          
         </Grid.Column>
         <Grid.Column>
           <p className="myName">Hi, I'm Ronak!</p>
