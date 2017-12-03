@@ -3,6 +3,12 @@ import Link from 'gatsby-link'
 import '../layouts/index.scss';
 import { Icon, Grid, Image, Button } from 'semantic-ui-react'
 
+function moveToBlog() {
+    if (typeof window !== 'undefined') {
+        window.location = '/blog/'
+    }
+}
+
 const IndexPage = () =>
   <div className="animated fadeInLeft">
     <Grid centered columns={1}>
@@ -17,8 +23,8 @@ const IndexPage = () =>
           <Image className="image" className="profileImage" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAoLAAAAJDlkYzRmYjVjLTJhNDgtNDEyMy04YzZlLTU0ZmZmZTQ4ODkxNg.jpg" />
           <Button className="resumeButton" basic color='green' href="https://drive.google.com/open?id=19t2mzanhr5ghMC5SiPOWk2kLLUnVHjWW" target="_blank">R E S U M É</Button> 
           <br />
-          <Link to="/blog"><Button className="resumeButton" basic color="blue">B L O G</Button></Link>
-          <br /> 
+          <Button onClick={moveToBlog} href="#" className="resumeButton" basic color="blue">B L O G</Button>
+          <br />
         </Grid.Column>
         <Grid.Column>
           <p className="myName">Hi, I'm Ronak!</p>
