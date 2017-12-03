@@ -3,12 +3,6 @@ import Link from 'gatsby-link'
 import '../layouts/index.scss';
 import { Icon, Grid, Image, Button } from 'semantic-ui-react'
 
-function moveToBlog() {
-    if (typeof window !== 'undefined') {
-        window.location = '/blog/'
-    }
-}
-
 const IndexPage = () =>
   <div className="animated fadeInLeft">
     <Grid centered columns={1}>
