@@ -18,6 +18,7 @@ const IndexPage = () =>
           <br />
           <Button className="resumeButton" basic color="blue" href="/blog">B L O G</Button>
           <br />
+            
         </Grid.Column>
         <Grid.Column>
           <p className="myName">Hi, I'm Ronak!</p>
