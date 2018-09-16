@@ -1,14 +1,5 @@
-.menuItem {
-  text-decoration: none;
-
-  a {
-    color: inherit;
-  }
-
-  a:hover {
-    color: inherit;
-    opacity: 0.5;
-  }
+h1 {
+  text-align: center;
 }
 
 .profileImage {
@@ -29,8 +20,7 @@
 .image {
   margin-top: 0.5em !important;
   max-width: 100%;
-  width: 65%; 
-  
+  width: 65%;
 }
 
 .resumeButton {
@@ -46,10 +36,8 @@
 }
 
 .aboutMe {
-
   // text-align: justify !important;
   // text-justify: auto !important;
   font-family: 'Raleway', sans-serif;
   font-size: 16pt !important;
 }
-
