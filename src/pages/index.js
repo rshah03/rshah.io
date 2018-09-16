@@ -7,17 +7,11 @@ import Layout from "../components/layout";
 const IndexPage = () =>
   <Layout>
     <div className="animated fadeInLeft">
-      <Grid centered columns={1}>
-        <Grid.Column>
-          <span>
-            <h1>
-              A B O U T<Link to="/projects">
-                <Icon name="chevron right" />
-              </Link>
-            </h1>
-          </span>
-        </Grid.Column>
-      </Grid>
+      <h1>
+        P R O J E C T S<Link to="/projects">
+          <Icon name="chevron right" />
+        </Link>
+      </h1>
 
       <hr />
       <Grid
@@ -32,25 +26,24 @@ const IndexPage = () =>
           <Image
             className="image"
             className="profileImage"
-            src="https://media.licdn.com/dms/image/C5603AQEIbibKyqRAWQ/profile-displayphoto-shrink_200_200/0?e=1542240000&v=beta&t=eCXOhcm3t7Wa1jo__uhuXXy10_VvJJE6DO6WjE7Wa7I"
+            src="https://bit.ly/2p8s3jP"
           />
           <br />
           <Button className="resumeButton" basic color="blue" href="/blog">
             B L O G
           </Button>
-          <br />,
+          <br />
         </Grid.Column>
         <Grid.Column>
           <p className="myName">Hi, I'm Ronak!</p>
           <p className="aboutMe">
             To me, technology evokes a sense of innate curiosity; an intrigue.
-            My passion for programming and general interest in Computer Science
-            is a by-product of that curiosity. I have been enamored with the
-            technological world and all that it has to offer from a very young
-            age. It amazes me with its limitless potential. It only took one
-            introduction to programming course for me to know that it was what I
-            wanted to do, thus establishing my passion. I strive to be on the
-            cutting-edge of technology and constantly foray into the unknown.{" "}
+            My passion for technology, including programming, is a by-product of
+            that curiosity. I have been enamored with the technological world
+            since I first hit the power switch on the first PC my family owned
+            back in 1998. The potential of what can be accomplished using
+            technology is an awe-inspiring thought. As a developer, I pride
+            myslef in being able to humbly contribute to the future.
           </p>
         </Grid.Column>
       </Grid>

@@ -17,6 +17,9 @@ export default function Template({ data }) {
         />
 
         <div className="postArea animated slideInUp">
+          <h3 className="blogDate">
+            {post.frontmatter.date}
+          </h3>
           <h1>
             {post.frontmatter.title}
           </h1>

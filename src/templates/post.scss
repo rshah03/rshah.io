@@ -2,7 +2,7 @@ $break-small: 320px;
 $break-medium: 375px;
 $break-large: 414px;
 
-.backButton{
+.backButton {
   margin-top: 0.2em !important;
   position: fixed !important;
 }
@@ -21,9 +21,14 @@ $break-large: 414px;
   @media screen and (max-width: $break-large) {
     width: 65%;
   }
+
+  .blogDate {
+    opacity: 0.2;
+    margin-top: 0.5em;
+    margin-bottom: -0.8em;
+  }
 }
 
 .bodyText {
   font-size: 12pt;
-
 }
