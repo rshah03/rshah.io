@@ -1,5 +1,18 @@
-h1 {
-  text-align: center;
+.menuItem {
+  text-decoration: none;
+
+  h1 {
+    text-align: center;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  a:hover {
+    color: inherit;
+    opacity: 0.5;
+  }
 }
 
 .profileImage {
