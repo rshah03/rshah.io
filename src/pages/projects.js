@@ -23,7 +23,7 @@ const SecondPage = () =>
       >
         <Grid.Row>
           <Grid.Column>
-            <a href="https://github.com/rshah03/WeatherUp" target="_blank">
+            <a href="https://github.com/rshah03/WeatherUp" target="_blank" rel="noopener noreferrer">
               <Card centered>
                 <Card.Content>
                   <Card.Header> Weather Up </Card.Header>
@@ -37,7 +37,7 @@ const SecondPage = () =>
             </a>
           </Grid.Column>
           <Grid.Column>
-            <a href="https://github.com/rshah03/Minesweeper" target="_blank">
+            <a href="https://github.com/rshah03/Minesweeper" target="_blank" rel="noopener noreferrer">
               <Card centered>
                 <Card.Content>
                   <Card.Header> Minesweeper </Card.Header>
@@ -51,7 +51,7 @@ const SecondPage = () =>
             </a>
           </Grid.Column>
           <Grid.Column>
-            <a href="https://github.com/rshah03/Minesweeper" target="_blank">
+            <a href="https://github.com/rshah03/Minesweeper" target="_blank" rel="noopener noreferrer">
               <Card centered>
                 <Card.Content>
                   <Card.Header> GithubBattle </Card.Header>
@@ -67,7 +67,7 @@ const SecondPage = () =>
         </Grid.Row>
         <Grid.Row>
           <Grid.Column>
-            <a href="https://github.com/rshah03/Capp" target="_blank">
+            <a href="https://github.com/rshah03/Capp" target="_blank" rel="noopener noreferrer">
               <Card centered>
                 <Card.Content>
                   <Card.Header> Capp </Card.Header>
