@@ -65,6 +65,22 @@ const SecondPage = () =>
             </a>
           </Grid.Column>
         </Grid.Row>
+        <Grid.Row>
+          <Grid.Column>
+            <a href="https://github.com/rshah03/Capp" target="_blank">
+              <Card centered>
+                <Card.Content>
+                  <Card.Header> Capp </Card.Header>
+                  <Card.Meta> iOS App (Swift) </Card.Meta>
+                  <Card.Description>
+                    An iOS app to find specialty local coffee shops. Uses
+                    Google's Firebase for backend architecture.
+                  </Card.Description>
+                </Card.Content>
+              </Card>
+            </a>
+          </Grid.Column>
+        </Grid.Row>
       </Grid>
     </div>
   </Layout>;
