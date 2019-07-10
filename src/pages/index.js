@@ -1,8 +1,10 @@
 import React from "react";
 import Link from "gatsby-link";
 import "../layouts/index.scss";
-import { Icon, Grid, Image, Button } from "semantic-ui-react";
+import { Icon, Grid, Button, Message } from "semantic-ui-react";
 import Layout from "../components/layout";
+
+const list = ["Rust", "GoLang", "Docker"];
 
 const IndexPage = () =>
   <Layout>
@@ -23,11 +25,7 @@ const IndexPage = () =>
         columns={2}
       >
         <Grid.Column textAlign="center">
-          <Image
-            className="image"
-            className="profileImage"
-            src="https://https://media.licdn.com/dms/image/C5603AQEIbibKyqRAWQ/profile-displayphoto-shrink_100_100/0?e=1568246400&v=beta&t=7Y9AfLYIBJdcSNCNDUEsuvKfmR3bV-wfXK3RPUNe6W0.ly/2p8s3jP"
-          />
+          <Message header="Technologies I'm Interested in Today" list={list} />
           <br />
           <Button className="resumeButton" basic color="blue" href="/blog">
             B L O G
