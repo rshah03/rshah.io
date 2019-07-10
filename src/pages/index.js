@@ -26,7 +26,7 @@ const IndexPage = () =>
           <Image
             className="image"
             className="profileImage"
-            src="https://bit.ly/2p8s3jP"
+            src="https://https://media.licdn.com/dms/image/C5603AQEIbibKyqRAWQ/profile-displayphoto-shrink_100_100/0?e=1568246400&v=beta&t=7Y9AfLYIBJdcSNCNDUEsuvKfmR3bV-wfXK3RPUNe6W0.ly/2p8s3jP"
           />
           <br />
           <Button className="resumeButton" basic color="blue" href="/blog">
