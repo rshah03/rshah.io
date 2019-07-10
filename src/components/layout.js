@@ -22,7 +22,11 @@ const Header = () =>
             </Menu.Menu>
             <Menu.Menu position="right">
               <Menu.Item className="menuItem">
-                <a href="https://github.com/rshah03" target="_blank">
+                <a
+                  href="https://github.com/rshah03"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <Icon size="big" name="github" />
                 </a>
               </Menu.Item>
@@ -30,6 +34,7 @@ const Header = () =>
                 <a
                   href="https://www.linkedin.com/in/ronak-shah-03/"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <Icon size="big" name="linkedin" />
                 </a>

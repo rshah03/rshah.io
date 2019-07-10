@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import Link from "gatsby-link";
-import { Button, Icon } from "semantic-ui-react";
+import { Button } from "semantic-ui-react";
 import "../layouts/blog.scss";
 import Layout from "../components/layout";
+import { graphql } from "gatsby";
 
 class BlogPage extends Component {
   render() {
