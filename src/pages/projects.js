@@ -1,16 +1,16 @@
 import React from "react";
-import Link from "gatsby-link";
 import { Grid, Card, Icon } from "semantic-ui-react";
 import "../layouts/projects.scss";
 import Layout from "../components/layout";
 
-const SecondPage = () =>
+const SecondPage = () => (
   <Layout>
     <div className="animated fadeInRight">
       <h1>
-        <Link to="/">
+        <a href="/">
           <Icon name="chevron left" />
-        </Link>A B O U T
+        </a>
+        A B O U T
       </h1>
       <hr />
       <Grid
@@ -23,7 +23,11 @@ const SecondPage = () =>
       >
         <Grid.Row>
           <Grid.Column>
-            <a href="https://github.com/rshah03/WeatherUp" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://github.com/rshah03/WeatherUp"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <Card centered>
                 <Card.Content>
                   <Card.Header> Weather Up </Card.Header>
@@ -37,7 +41,11 @@ const SecondPage = () =>
             </a>
           </Grid.Column>
           <Grid.Column>
-            <a href="https://github.com/rshah03/Minesweeper" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://github.com/rshah03/Minesweeper"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <Card centered>
                 <Card.Content>
                   <Card.Header> Minesweeper </Card.Header>
@@ -51,7 +59,11 @@ const SecondPage = () =>
             </a>
           </Grid.Column>
           <Grid.Column>
-            <a href="https://github.com/rshah03/Minesweeper" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://github.com/rshah03/Minesweeper"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <Card centered>
                 <Card.Content>
                   <Card.Header> GithubBattle </Card.Header>
@@ -67,7 +79,11 @@ const SecondPage = () =>
         </Grid.Row>
         <Grid.Row>
           <Grid.Column>
-            <a href="https://github.com/rshah03/Capp" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://github.com/rshah03/Capp"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <Card centered>
                 <Card.Content>
                   <Card.Header> Capp </Card.Header>
@@ -83,6 +99,7 @@ const SecondPage = () =>
         </Grid.Row>
       </Grid>
     </div>
-  </Layout>;
+  </Layout>
+);
 
 export default SecondPage;

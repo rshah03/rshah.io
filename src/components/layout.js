@@ -6,7 +6,7 @@ import Helmet from "react-helmet";
 
 import "../layouts/index.scss";
 
-const Header = () =>
+const Header = () => (
   <div>
     <Grid>
       <Grid.Row>
@@ -16,7 +16,7 @@ const Header = () =>
               <Menu.Item className="menuItem nameTitle">
                 <h3 className="developerTag">
                   <Icon name="terminal" />
-                  <Link to="/">Ronak Shah</Link>
+                  <a href="/">Ronak Shah</a>
                 </h3>
               </Menu.Item>
             </Menu.Menu>
@@ -44,9 +44,10 @@ const Header = () =>
         </Grid.Column>
       </Grid.Row>
     </Grid>
-  </div>;
+  </div>
+);
 
-const Layout = ({ children }) =>
+const Layout = ({ children }) => (
   <div>
     <Helmet
       title="Ronak Shah"
@@ -87,7 +88,8 @@ const Layout = ({ children }) =>
     >
       {children}
     </div>
-  </div>;
+  </div>
+);
 
 Layout.propTypes = {
   children: PropTypes.func

@@ -1,18 +1,18 @@
 import React from "react";
-import Link from "gatsby-link";
 import "../layouts/index.scss";
 import { Icon, Grid, Button, Message } from "semantic-ui-react";
 import Layout from "../components/layout";
 
 const list = ["Rust", "GoLang", "Docker"];
 
-const IndexPage = () =>
+const IndexPage = () => (
   <Layout>
     <div className="animated fadeInLeft">
       <h1>
-        P R O J E C T S<Link to="/projects">
+        P R O J E C T S
+        <a href="/projects">
           <Icon name="chevron right" />
-        </Link>
+        </a>
       </h1>
 
       <hr />
@@ -45,7 +45,9 @@ const IndexPage = () =>
           </p>
         </Grid.Column>
       </Grid>
-    </div>;
-  </Layout>;
+    </div>
+    ;
+  </Layout>
+);
 
 export default IndexPage;
