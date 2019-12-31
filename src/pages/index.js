@@ -3,7 +3,7 @@ import "../layouts/index.scss";
 import { Icon, Grid, Button, Message } from "semantic-ui-react";
 import Layout from "../components/layout";
 
-const list = ["Rust", "GoLang", "Docker"];
+const list = ["gRPC", "GoLang", "Docker"];
 
 const IndexPage = () => (
   <Layout>
@@ -35,13 +35,14 @@ const IndexPage = () => (
         <Grid.Column>
           <p className="myName">Hi, I'm Ronak!</p>
           <p className="aboutMe">
-            To me, technology evokes a sense of innate curiosity; an intrigue.
-            My passion for technology, including programming, is a by-product of
-            that curiosity. I have been enamored with the technological world
-            since I first hit the power switch on the first PC my family owned
-            back in 1998. The potential of what can be accomplished using
-            technology is an awe-inspiring thought. As a developer, I pride
-            myslef in being able to humbly contribute to the future.
+            To me, technology evokes a sense of innate curiosity; technology
+            provokes an intrigue. My passion for technology, including
+            programming, is a by-product of that curiosity. I have been enamored
+            with the technological world since I first hit the power switch on
+            the first PC my family owned back in 1998. The potential of what can
+            be accomplished using technology is an awe-inspiring thought. As a
+            developer, I pride myslef in having the opportunity to contribute to
+            a better future.
           </p>
         </Grid.Column>
       </Grid>
