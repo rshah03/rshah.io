@@ -3,7 +3,7 @@ import "../layouts/index.scss";
 import { Icon, Grid, Button, Message } from "semantic-ui-react";
 import Layout from "../components/layout";
 
-const list = ["gRPC", "GoLang", "Docker"];
+const list = ["gRPC", "GoLang", "Docker", "Scalabity", "Flutter"];
 
 const IndexPage = () => (
   <Layout>
