@@ -1,6 +1,6 @@
 import React from "react";
 import "../layouts/index.scss";
-import { Icon, Grid, Button, Message } from "semantic-ui-react";
+import { Icon, Grid, Button, Message, Segment, Container } from "semantic-ui-react";
 import Layout from "../components/layout";
 
 const list = ["gRPC", "GoLang", "Docker", "Scalabity", "Flutter"];
@@ -24,17 +24,9 @@ const IndexPage = () => (
         container
         columns={2}
       >
-        <Grid.Column textAlign="center">
-          <Message header="Technologies I'm Interested in Today" list={list} />
-          <br />
-          <Button className="resumeButton" basic color="blue" href="/blog">
-            B L O G
-          </Button>
-          <br />
-        </Grid.Column>
         <Grid.Column>
-          <p className="myName">Hi, I'm Ronak!</p>
-          <p className="aboutMe">
+          <h2 className="cleanTextEmphasis">Hi, I'm Ronak!</h2>
+          <p className="cleanText">
             To me, technology evokes a sense of innate curiosity; technology
             provokes an intrigue. My passion for technology, including
             programming, is a by-product of that curiosity. I have been enamored
@@ -44,6 +36,25 @@ const IndexPage = () => (
             developer, I pride myslef in having the opportunity to contribute to
             a better future.
           </p>
+        </Grid.Column>
+        <Grid.Column textAlign="center">
+          <div>
+            <h2 className="cleanTextEmphasis">
+              What's piquing my interest right now?
+            </h2>
+            <Container className={"fixed-height-container"} fluid>
+              {list.map(text => (
+                <Segment className={"cleanText"} vertical>
+                  {text}
+                </Segment>
+              ))}
+            </Container>
+          </div>
+          <br />
+          <Button className="resumeButton" basic color="blue" href="/blog">
+            B L O G
+          </Button>
+          <br />
         </Grid.Column>
       </Grid>
     </div>
